@@ -7,6 +7,12 @@
     <Nullable>enable</Nullable>
     <ApplicationIcon>NjOtter.ico</ApplicationIcon>
     <DebugType>embedded</DebugType>
+    <AssemblyName>NCAT</AssemblyName>
+    <RootNamespace>NCAT</RootNamespace>
+    <Company>NineJuan N913</Company>
+    <Authors>Juan Lee</Authors>
+    <Copyright>All rights Reserved</Copyright>
+    <PackageProjectUrl>https://github.com/john0128/ProjectNCAT</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
