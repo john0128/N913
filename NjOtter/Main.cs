@@ -55,7 +55,7 @@ namespace NjOtter
 
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.Write("nine@" + username);
-                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.Yellow; 
                 Console.Write(" $ ");
                 string command = Console.ReadLine();
 
